@@ -1,0 +1,1 @@
+This is a beginner-friendly To-Do List application built using Python. It allows users to manage their daily tasks efficiently by adding, viewing, and deleting tasks through a simple command-line interface.
